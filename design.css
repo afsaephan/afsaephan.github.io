@@ -8,19 +8,6 @@ body, html {
     box-sizing: border-box;
 }
 
-.grid {
-    display: grid; 
-    grid-template-columns: repeat(2, 1fr);
-    grid-template-rows: auto; 
-    grid-template-areas: 
-    "title title"
-    "header header" 
-    "abt_me abt_me"
-    "edu_info edu_info"
-    "wrk_exp wrk exp"
-    "footer footer"
-}
-
 ul{
     display: flex; 
     justify-content: space-evenly;
