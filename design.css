@@ -60,3 +60,13 @@ li a {
     float: right;
     padding: 0 20px 20px 0; 
 }
+
+.item_e img { 
+    float: left;
+    padding: 0 20px 20px 0; 
+}
+
+.item_w img { 
+    float: right;
+    padding: 0 20px 20px 0; 
+}
