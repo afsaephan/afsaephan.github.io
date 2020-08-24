@@ -8,7 +8,7 @@ body, html {
     box-sizing: border-box;
 }
 
-ul{
+.sticky_header {
     display: flex;
     justify-content: space-evenly;
     list-style-type: none;
