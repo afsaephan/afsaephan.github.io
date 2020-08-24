@@ -48,7 +48,8 @@ li a {
     text-align: center; 
 }
 .body_container {
-    display: inline-grid;
+    display: flex;
+    flex-direction: column;
     font-family: Optima, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;     
 }
 
